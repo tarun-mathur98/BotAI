@@ -248,5 +248,25 @@
     "id": 50,
     "question": "How do you stay updated with the latest technology trends?",
     "response": "Staying updated involves following industry news, participating in developer communities, attending conferences and workshops, taking online courses, reading technical blogs and publications, and experimenting with new technologies and tools."
+  },
+  {
+    "id": 51,
+    "question": "Hi, what is 5 + 7?",
+    "response": "The answer to 5 + 7 is 12. Math is fun, isn’t it?"
+  },
+  {
+    "id": 52,
+    "question": "Hi, can you tell me a fun fact?",
+    "response": "Fun Fact: A day on Venus is longer than a year on Venus. It takes longer for Venus to rotate once on its axis than it does to complete one orbit around the Sun!"
+  },
+  {
+    "id": 53,
+    "question": "Hi, what is the capital of India?",
+    "response": "The capital of India is New Delhi, a vibrant city rich in history and culture."
+  },
+  {
+    "id": 54,
+    "question": "Hi, how far is the moon from Earth?",
+    "response": "The average distance from the Earth to the Moon is about 384,400 kilometers (238,855 miles)."
   }
 ]
